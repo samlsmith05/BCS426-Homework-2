@@ -1,0 +1,6 @@
+C:\Users\Samantha\Documents\Fall 2019\BCS426\BCS426Homework2DLL\BCS426Homework2DLL\bin\Debug\BCS426Homework2DLL.dll
+C:\Users\Samantha\Documents\Fall 2019\BCS426\BCS426Homework2DLL\BCS426Homework2DLL\bin\Debug\BCS426Homework2DLL.pdb
+C:\Users\Samantha\Documents\Fall 2019\BCS426\BCS426Homework2DLL\BCS426Homework2DLL\obj\Debug\BCS426Homework2DLL.csprojAssemblyReference.cache
+C:\Users\Samantha\Documents\Fall 2019\BCS426\BCS426Homework2DLL\BCS426Homework2DLL\obj\Debug\BCS426Homework2DLL.csproj.CoreCompileInputs.cache
+C:\Users\Samantha\Documents\Fall 2019\BCS426\BCS426Homework2DLL\BCS426Homework2DLL\obj\Debug\BCS426Homework2DLL.dll
+C:\Users\Samantha\Documents\Fall 2019\BCS426\BCS426Homework2DLL\BCS426Homework2DLL\obj\Debug\BCS426Homework2DLL.pdb
